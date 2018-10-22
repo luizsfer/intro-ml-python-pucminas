@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/luizsfer/intro-ml-python-pucminas/master)
+
+
 # intro-ml-python-pucminas
 
 Neste projeto habita o material de apoio para as aulas do minicurso de Introdução à Aprendizado de Máquina com Python.
