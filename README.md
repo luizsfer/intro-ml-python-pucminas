@@ -1,4 +1,4 @@
-# intro-ml-python
+# intro-ml-python-pucminas
 
 Neste projeto habita o material de apoio para as aulas do minicurso de Introdução à Aprendizado de Máquina com Python.
 
