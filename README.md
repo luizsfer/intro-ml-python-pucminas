@@ -16,3 +16,14 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Data Science vs Machine learning
 - O caso AmazonGo
 - Carros autônomos
+
+### Segundo dia
+
+- Introdução rápida ao Python
+- Sintaxe
+- Blocos
+- Controle de fluxo
+- Laços
+- Tipagem: número
+- Tipagem: texto
+- Módulo string
