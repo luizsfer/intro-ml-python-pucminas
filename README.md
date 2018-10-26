@@ -30,3 +30,44 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 - Tipagem: número
 - Tipagem: texto
 - Módulo string
+
+
+### Terceiro dia
+
+- Conhecendo o Twitter
+- Extraindo dados de API utilizando tweepy
+- Célula de código
+- Criação de DataFrame
+- Visualização e estatísticas sobre um DataFrame
+- Séries temporais
+- Gráficos
+- Análise sentimental de um determinado texto
+
+
+### Quarto dia
+
+- Etapas de uma análise de dados
+- Preprocessamento
+- Dados ausentes: identificação e remoção
+- Formatação de dados
+- Normalização de dados
+- Data binning
+- Transformação de dados categóricos em quantitativos
+
+
+### Quinto dia
+
+- Importação de dados
+- Identificação de informações acerca dos dados coletados
+- Criação de conjuntos de validação
+- Avaliando modelos de aprendizado de máquina
+- Fazendo predições
+- Como analisar uma predição
+
+
+### Agradecimento
+
+Agradecimentos
+Agradeço ao Curso de Ciência da Computação da PUC Minas - Campus Poços de Caldas pela oportunidade de dividir um pouco de meu conhecimento com a comunidade acadêmica.
+
+Agradeço também aos participantes, a qualidade do curso só demonstra a grande capacidade que possuem, espero encontrar vocês em breve, porém, como sucedidos profissionais na área.
