@@ -67,7 +67,6 @@ Também serve como um guia tutorial para a comunidade que deseja iniciar seus co
 
 ### Agradecimento
 
-Agradecimentos
 Agradeço ao Curso de Ciência da Computação da PUC Minas - Campus Poços de Caldas pela oportunidade de dividir um pouco de meu conhecimento com a comunidade acadêmica.
 
 Agradeço também aos participantes, a qualidade do curso só demonstra a grande capacidade que possuem, espero encontrar vocês em breve, porém, como sucedidos profissionais na área.
